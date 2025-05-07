@@ -19,7 +19,7 @@ export default function Work() {
         <div className="col-md-6">
           <div className="project-card position-relative">
             <img
-              src="src\assets\photo1.jpeg"
+              src="/assets/photo1.jpeg"
               alt="Project 1"
               className="img-fluid rounded"
             />
@@ -34,7 +34,7 @@ export default function Work() {
         <div className="col-md-6">
           <div className="project-card position-relative">
             <img
-              src="src\assets\photo2.webp"
+              src="/assets/photo2.webp"
               alt="Project 2"
               className="img-fluid rounded"
             />
@@ -48,7 +48,7 @@ export default function Work() {
         <div className="col-md-6">
           <div className="project-card position-relative">
             <img
-              src="src\assets\photo3.jpeg"
+              src="/assets/photo3.jpeg"
               alt="Project 2"
               className="img-fluid rounded"
             />
@@ -61,7 +61,7 @@ export default function Work() {
         <div className="col-md-6">
           <div className="project-card position-relative">
             <img
-              src="src\assets\pexels-photo-6.webp"
+              src="/assets/pexels-photo-6.webp"
               alt="Project 2"
               className="img-fluid rounded"
             />
@@ -78,7 +78,7 @@ export default function Work() {
             <div className="col-md-6">
           <div className="project-card position-relative">
             <img
-              src="src\assets\photo2.webp"
+              src="/assets/photo2.webp"
               alt="Project 2"
               className="img-fluid rounded"
             />
@@ -92,7 +92,7 @@ export default function Work() {
             <div className="col-md-6">
               <div className="project-card position-relative">
                 <img
-                  src="src\assets\pexels-photo5.webp"
+                  src="/assets/pexels-photo5.webp"
                   alt="Project 4"
                   className="img-fluid rounded"
                 />

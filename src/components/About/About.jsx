@@ -6,8 +6,8 @@ export default function About() {
     <>
 
 
-<div className="container about-section">
-      <p className="about-title">ABOUT ME</p>
+<div className="container about-section py-5">
+      <p className="about-title ">ABOUT ME</p>
       <h2 className="about-heading">WHO AM I?</h2>
       <p className="about-text">
         <strong>Hi, I'm Shrouk raslan .</strong> 

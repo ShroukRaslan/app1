@@ -3,6 +3,8 @@ import  { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router';
 import './SideBar.css';
+import shroukImg from '../../assets/shrouk.jpg';
+
 
 
 
@@ -23,8 +25,8 @@ const Sidebar = () => {
       {/* Sidebar */}
       <div className="bg-light d-flex flex-column align-items-center justify-content-center text-center">
         <img
-          src="src\assets\shrouk.jpg"
-          alt="Shrouk"
+          src={shroukImg} alt="shrouk"
+          
           className="rounded-circle mb-3"
           style={{ width: "150px", height: "150px", objectFit: "cover" }}
         />

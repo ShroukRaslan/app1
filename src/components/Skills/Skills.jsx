@@ -14,7 +14,7 @@ export default function Skills() {
   return (
     <div>
       
-    <div className="container ">
+    <div className="container py-5">
       <p className="text-uppercase text-muted small">My Specialty</p>
       <h2 className="fw-bold">My Skills</h2>
       <p className="text-muted mb-5">

@@ -7,10 +7,10 @@ export default function MasterLayout() {
     <div>
      <div style={{ display: "flex" }}>
       <SideBar />
-        <div style={{  padding: '20px' }}>
+        
         <Outlet /> 
       </div>
     </div>
-    </div>
+   
   )
 }

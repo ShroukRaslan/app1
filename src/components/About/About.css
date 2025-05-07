@@ -1,0 +1,53 @@
+
+  
+  .about-title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #6c757d;
+    text-transform: uppercase;
+  }
+  
+  .about-heading {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .about-text {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .services {
+    background-color: #f8f9fa;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    
+  }
+.ser1{
+  border-bottom: #007bff 1px solid;
+}
+.ser2{
+  border-bottom: #ec5453 1px solid;
+}
+.ser3{
+  border-bottom: #f9bf3f 1px solid;
+}
+.ser4{
+  border-bottom: #a84cb8 1px solid;
+}
+  
+  .services:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon2 {
+    font-size: 30px;
+    color: #007bff;
+    margin-bottom: 10px;
+    display: block;
+  }
+  

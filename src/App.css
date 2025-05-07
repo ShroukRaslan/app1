@@ -1,0 +1,39 @@
+
+.mobile-toggle {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    font-size: 28px;
+    color: #343a40;
+    background-color: #f8f9fa;
+    padding: 5px 10px;
+    border-radius: 4px;
+    z-index: 1100;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  
+  @media (max-width: 767px) {
+    .sidebar {
+      transform: translateX(-100%);
+    }
+  
+    .sidebar.open {
+      transform: translateX(0);
+    }
+  }
+  
+
+@media (min-width: 768px) {
+    .mobile-toggle {
+      display: none;
+    }
+  
+    .sidebar {
+      transform: translateX(0);
+    }
+  
+    .overlay {
+      display: none;
+    }
+  }

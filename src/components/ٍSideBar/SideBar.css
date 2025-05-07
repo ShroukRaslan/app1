@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #f8f9fa;
+    width: 300px ;
+    min-height: 100vh;
+  }
+  .nav-link:hover{
+   border-bottom: #7b7dff solid 1px;
+    color: #7b7dff !important;
+  
+  }
+  
+  @media (min-width: 768px) {
+    
+  }
+  
+  .nav-link {
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+  }
+  

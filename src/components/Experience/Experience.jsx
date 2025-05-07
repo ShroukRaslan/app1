@@ -5,7 +5,7 @@ export default function Experience() {
   return (
     <div>
       
-    <div className="container py-5">
+    <div className="container py-5 my-5">
       <p className="text-uppercase text-muted small">Experience</p>
       <h2 className="fw-bold mb-5">Work Experience</h2>
 
